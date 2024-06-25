@@ -1,7 +1,7 @@
 # Virtual Dressing Room
 The Virtual Dressing Room project is a Python application that uses computer vision and pose detection to overlay virtual shirts on a live webcam feed in real-time. Leveraging OpenCV and cvzone's PoseDetector, it accurately positions shirts based on body landmarks and allows users to switch shirts with gestures, offering an amazing experience.
 
-Key Features:
+Key Features:<br>
   Real-Time Webcam Feed: Captures live video from the webcam and displays it.
   Pose Detection: Uses the PoseDetector module from cvzone to detect the user's body pose in real-time.
   Shirt Overlay: Dynamically overlays a virtual shirt on the user's body based on detected landmarks.
